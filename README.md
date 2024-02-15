@@ -54,4 +54,7 @@ The whole is more than the sum of the parts. Taken together, this stack encourag
 If you'd like to read the rest of the blog post, which contains step by step instructions for building the simple web app contained in this repo, follow this link (coming soon).
 
 This is what the project looks like when deployed.
+
+<br>
+
 ![FinalResultT2A2Example](/AstroTailwindAlpine.gif)
