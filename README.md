@@ -51,7 +51,7 @@ The whole is more than the sum of the parts. Taken together, this stack encourag
 
 # ...
 
-The the rest of the <a href="https://tech.battery.nexus/posts/011-t2a2-stack/" target="_blank"> blog post </a> contains step by step instructions for building the simple web app contained in this repo.
+The rest of the <a href="https://tech.battery.nexus/posts/011-t2a2-stack/" target="_blank"> blog post </a> contains step by step instructions for building the simple web app contained in this repo.
 
 This is what the project looks like when deployed.
 
